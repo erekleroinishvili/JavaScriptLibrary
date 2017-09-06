@@ -19,3 +19,4 @@ var currentLine = 0;
 function readline(a) {
     return a.split("\n")[currentLine++];
 }
+ 
