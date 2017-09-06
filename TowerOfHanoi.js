@@ -33,3 +33,4 @@ function hanoiSolve(hoops, from, to) {
 
 hanoiSolve(4, 1, 3);
 console.log(moves);
+ 
